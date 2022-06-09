@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://cutewallpaper.org/22/marshmello-galaxy-wallpapers/203285388.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+    font-size: 25px;
+    background-color: black;
+}
+
+#h1{
+background-color: blue;
+border-radius: 5px;
+box-shadow: 5px 5px 40px blue;
+color: white;
+}
+#btn1{
+    background-color:blue;
+    font-size: 20px;
+    font-family: 'Satisfy', cursive;
+    border-radius: 5px;
+    color: white;
+}
